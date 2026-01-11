@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.4">
+        <ModelTarget name="Cubesat_Step2" targetId="b8c4d71a1be14f3dba93e33850aeba9b" version="13.0" toolVersion="v6.2.4" bbox="-0.049248 -0.000604 -0.049248 0.049248 0.016242 0.049248" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Cubesat_Step2" assemblyId="ed3a5e0cbf07462b9f91386fd102c8eb">
+        <Part name="Cubesat_Step2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Step8
+  m_EditorClassIdentifier: 
+  m_GroupName: Step8
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0018b49e34c7ca14cab76152977fdb04
+  m_SerializeEntries:
+  - m_GUID: 090fec2cafae3db47995839024a3aed2
+    m_Address: Assets/Prefab/Scenes Addressable/Elaborato/Step8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 71a813e78a239df44b780dd6d19d23eb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3b239cae75d279c47919875a716f6dd4, type: 2}
+    - {fileID: 11400000, guid: 726b953414d2aa54591ebe716b352d3b, type: 2}

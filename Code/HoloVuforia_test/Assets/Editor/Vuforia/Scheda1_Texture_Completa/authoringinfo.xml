@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.4">
+        <ModelTarget name="Scheda1_Texture_Completa" targetId="0ddf5e4b5dab46a894da33beda7a3a63" version="13.0" toolVersion="v6.2.4" bbox="-0.043824 0.027692 -0.046196 0.043288 0.029283 0.046914" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Scheda1_Texture_Completa" assemblyId="834a5683fe8947b0a248415ca238e9b8">
+        <Part name="Scheda1_Texture_Completa" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

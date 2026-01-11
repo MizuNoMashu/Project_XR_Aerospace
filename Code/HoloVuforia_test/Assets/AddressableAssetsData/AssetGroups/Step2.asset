@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Step2
+  m_EditorClassIdentifier: 
+  m_GroupName: Step2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f1658e4ce908a3342b71dee48a2ded4a
+  m_SerializeEntries:
+  - m_GUID: b18b767160820564d9e607dfd8bed59d
+    m_Address: Assets/Prefab/Scenes Addressable/Elaborato/Step2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 71a813e78a239df44b780dd6d19d23eb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a386a250705a8804c83fb6d9c217e7b3, type: 2}
+    - {fileID: 11400000, guid: 600e9812e9660fc4fac229fd64bc6b9b, type: 2}

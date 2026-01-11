@@ -1,0 +1,532 @@
+Project: cubesat
+	Resources Needed:
+		General Type Name: Frame_1
+			Quantity: 1
+			Instances:
+				- Frame 1
+		General Type Name: Frame_2
+			Quantity: 1
+			Instances:
+				- Frame 2
+		General Type Name: Screw_1
+			Quantity: 8
+			Instances:
+				- Screw 1
+				- Screw 2
+				- Screw 3
+				- Screw 4
+				- Screw 5
+				- Screw 6
+				- Screw 7
+				- Screw 8
+		General Type Name: Screw_2
+			Quantity: 4
+			Instances:
+				- Screw 9
+				- Screw 10
+				- Screw 11
+				- Screw 12
+		General Type Name: Screw_3
+			Quantity: 16
+			Instances:
+				- Screw 13
+				- Screw 14
+				- Screw 15
+				- Screw 16
+				- Screw 17
+				- Screw 18
+				- Screw 19
+				- Screw 20
+				- Screw 21
+				- Screw 22
+				- Screw 23
+				- Screw 24
+				- Screw 25
+				- Screw 26
+				- Screw 27
+				- Screw 28
+		General Type Name: Screwdriver_1
+			Quantity: 4
+			Instances:
+				- Screwdriver
+		General Type Name: Screwdriver_2
+			Quantity: 20
+			Instances:
+				- Screwdriver
+		General Type Name: Screwdriver_3
+			Quantity: 4
+			Instances:
+				- Screwdriver
+		General Type Name: Spacer_1
+			Quantity: 20
+			Instances:
+				- Spacer 1
+				- Spacer 2
+				- Spacer 3
+				- Spacer 4
+				- Spacer 5
+				- Spacer 6
+				- Spacer 7
+				- Spacer 8
+				- Spacer 13
+				- Spacer 14
+				- Spacer 15
+				- Spacer 16
+				- Spacer 21
+				- Spacer 22
+				- Spacer 23
+				- Spacer 24
+				- Spacer 29
+				- Spacer 30
+				- Spacer 31
+				- Spacer 32
+		General Type Name: Spacer_2
+			Quantity: 12
+			Instances:
+				- Spacer 9
+				- Spacer 10
+				- Spacer 11
+				- Spacer 12
+				- Spacer 17
+				- Spacer 18
+				- Spacer 19
+				- Spacer 20
+				- Spacer 25
+				- Spacer 26
+				- Spacer 27
+				- Spacer 28
+		General Type Name: Wrench_1
+			Quantity: 20
+			Instances:
+				- Wrench
+		General Type Name: Bracket_1
+			Quantity: 4
+			Instances:
+				- Bracket 1
+				- Bracket 2
+				- Bracket 3
+				- Bracket 4
+		General Type Name: Washer_1
+			Quantity: 12
+			Instances:
+				- Washer 1
+				- Washer 2
+				- Washer 3
+				- Washer 4
+				- Washer 5
+				- Washer 6
+				- Washer 7
+				- Washer 8
+				- Washer 9
+				- Washer 10
+				- Washer 11
+				- Washer 12
+		General Type Name: Card_1
+			Quantity: 1
+			Instances:
+				- Card 1
+		General Type Name: Card_2
+			Quantity: 1
+			Instances:
+				- Card 2
+		General Type Name: Card_3
+			Quantity: 1
+			Instances:
+				- Card 3
+		General Type Name: Card_4
+			Quantity: 1
+			Instances:
+				- Card 4
+		General Type Name: Rail_1
+			Quantity: 1
+			Instances:
+				- Rail 1
+		General Type Name: Rail_2
+			Quantity: 1
+			Instances:
+				- Rail 2
+		General Type Name: Rail_3
+			Quantity: 1
+			Instances:
+				- Rail 3
+		General Type Name: Rail_4
+			Quantity: 1
+			Instances:
+				- Rail 4
+	Assembly Steps:
+		Step number: 1
+			Description: Place Frame 1 on the Workstation
+			Involved Components: Frame 1, Frame 1
+		Step number: 2
+			Description: Take Screw 1. Insert in Hole 1 of Frame 1.
+			Involved Components: Screw 1, Frame 1
+		Step number: 3
+			Description: Take Spacer 1. Screw in Screw 1.
+			Involved Components: Spacer 1, Screw 1
+		Step number: 4
+			Description: Take Screw 2. Insert in Hole 2 of Frame 1.
+			Involved Components: Screw 2, Frame 1
+		Step number: 5
+			Description: Take Spacer 2. Screw in Screw 2.
+			Involved Components: Spacer 2, Screw 2
+		Step number: 6
+			Description: Take Screw 3. Insert in Hole 3 of Frame 1.
+			Involved Components: Screw 3, Frame 1
+		Step number: 7
+			Description: Take Spacer 3. Screw in Screw 3.
+			Involved Components: Spacer 3, Screw 3
+		Step number: 8
+			Description: Take Screw 4. Insert in Hole 4 of Frame 1.
+			Involved Components: Screw 4, Frame 1
+		Step number: 9
+			Description: Take Spacer 4. Screw in Screw 4.
+			Involved Components: Spacer 4, Screw 4
+		Step number: 10
+			Description: Take Bracket 1. Screw in Spacer 1.
+			Involved Components: Bracket 1, Spacer 1
+		Step number: 11
+			Description: Take Bracket 2. Screw in Spacer 2.
+			Involved Components: Bracket 2, Spacer 2
+		Step number: 12
+			Description: Take Bracket 3. Screw in Spacer 3.
+			Involved Components: Bracket 3, Spacer 3
+		Step number: 13
+			Description: Take Bracket 4. Screw in Spacer 4.
+			Involved Components: Bracket 4, Spacer 4
+		Step number: 14
+			Description: Take Washer 1. Insert in Bracket 1.
+			Involved Components: Washer 1, Bracket 1
+		Step number: 15
+			Description: Take Washer 2. Insert in Bracket 1.
+			Involved Components: Washer 2, Bracket 1
+		Step number: 16
+			Description: Take Washer 3. Insert in Bracket 1.
+			Involved Components: Washer 3, Bracket 1
+		Step number: 17
+			Description: Take Washer 4. Insert in Bracket 2.
+			Involved Components: Washer 4, Bracket 2
+		Step number: 18
+			Description: Take Washer 5. Insert in Bracket 2.
+			Involved Components: Washer 5, Bracket 2
+		Step number: 19
+			Description: Take Washer 6. Insert in Bracket 2.
+			Involved Components: Washer 6, Bracket 2
+		Step number: 20
+			Description: Take Washer 7. Insert in Bracket 3.
+			Involved Components: Washer 7, Bracket 3
+		Step number: 21
+			Description: Take Washer 8. Insert in Bracket 3.
+			Involved Components: Washer 8, Bracket 3
+		Step number: 22
+			Description: Take Washer 9. Insert in Bracket 3.
+			Involved Components: Washer 9, Bracket 3
+		Step number: 23
+			Description: Take Washer 10. Insert in Bracket 4.
+			Involved Components: Washer 10, Bracket 4
+		Step number: 24
+			Description: Take Washer 11. Insert in Bracket 4.
+			Involved Components: Washer 11, Bracket 4
+		Step number: 25
+			Description: Take Washer 12. Insert in Bracket 4.
+			Involved Components: Washer 12, Bracket 4
+		Step number: 26
+			Description: Take Spacer 5. Screw in Bracket 1.
+			Involved Components: Spacer 5, Bracket 1
+		Step number: 27
+			Description: Take Spacer 6. Screw in Bracket 2.
+			Involved Components: Spacer 6, Bracket 2
+		Step number: 28
+			Description: Take Spacer 7. Screw in Bracket 3.
+			Involved Components: Spacer 7, Bracket 3
+		Step number: 29
+			Description: Take Spacer 8. Screw in Bracket 4.
+			Involved Components: Spacer 8, Bracket 4
+		Step number: 30
+			Description: Take Card 1. Insert in Bracket 1, Bracket 2, Bracket 3 and Bracket 4.
+			Involved Components: Card 1, Bracket 1, Bracket 2, Bracket 3, Bracket 4
+		Step number: 31
+			Description: Take Spacer 9. Insert in Bracket 1.
+			Involved Components: Spacer 9, Bracket 1
+		Step number: 32
+			Description: Take Spacer 10. Insert in Bracket 2.
+			Involved Components: Spacer 10, Bracket 2
+		Step number: 33
+			Description: Take Spacer 11. Insert in Bracket 3.
+			Involved Components: Spacer 11, Bracket 3
+		Step number: 34
+			Description: Take Spacer 12. Insert in Bracket 4.
+			Involved Components: Spacer 12, Bracket 4
+		Step number: 35
+			Description: Take Spacer 13. Screw in Bracket 1.
+			Involved Components: Spacer 13, Bracket 1
+		Step number: 36
+			Description: Take Spacer 14. Screw in Bracket 2.
+			Involved Components: Spacer 14, Bracket 2
+		Step number: 37
+			Description: Take Spacer 15. Screw in Bracket 3.
+			Involved Components: Spacer 15, Bracket 3
+		Step number: 38
+			Description: Take Spacer 16. Screw in Bracket 4.
+			Involved Components: Spacer 16, Bracket 4
+		Step number: 39
+			Description: Take Card 2. Insert in Bracket 1, Bracket 2, Bracket 3 and Bracket 4.
+			Involved Components: Card 2, Bracket 1, Bracket 2, Bracket 3, Bracket 4
+		Step number: 40
+			Description: Take Spacer 17. Insert in Bracket 1.
+			Involved Components: Spacer 17, Bracket 1
+		Step number: 41
+			Description: Take Spacer 18. Insert in Bracket 2.
+			Involved Components: Spacer 18, Bracket 2
+		Step number: 42
+			Description: Take Spacer 19. Insert in Bracket 3.
+			Involved Components: Spacer 19, Bracket 3
+		Step number: 43
+			Description: Take Spacer 20. Insert in Bracket 4.
+			Involved Components: Spacer 20, Bracket 4
+		Step number: 44
+			Description: Take Spacer 21. Screw in Bracket 1.
+			Involved Components: Spacer 21, Bracket 1
+		Step number: 45
+			Description: Take Spacer 22. Screw in Bracket 2.
+			Involved Components: Spacer 22, Bracket 2
+		Step number: 46
+			Description: Take Spacer 23. Screw in Bracket 3.
+			Involved Components: Spacer 23, Bracket 3
+		Step number: 47
+			Description: Take Spacer 24. Screw in Bracket 4.
+			Involved Components: Spacer 24, Bracket 4
+		Step number: 48
+			Description: Take Card 3. Insert in Bracket 1, Bracket 2, Bracket 3 and Bracket 4.
+			Involved Components: Card 3, Bracket 1, Bracket 2, Bracket 3, Bracket 4
+		Step number: 49
+			Description: Take Spacer 25. Insert in Bracket 1.
+			Involved Components: Spacer 25, Bracket 1
+		Step number: 50
+			Description: Take Spacer 26. Insert in Bracket 2.
+			Involved Components: Spacer 26, Bracket 2
+		Step number: 51
+			Description: Take Spacer 27. Insert in Bracket 3.
+			Involved Components: Spacer 27, Bracket 3
+		Step number: 52
+			Description: Take Spacer 28. Insert in Bracket 4.
+			Involved Components: Spacer 28, Bracket 4
+		Step number: 53
+			Description: Take Spacer 29. Screw in Bracket 1.
+			Involved Components: Spacer 29, Bracket 1
+		Step number: 54
+			Description: Take Spacer 30. Screw in Bracket 2.
+			Involved Components: Spacer 30, Bracket 2
+		Step number: 55
+			Description: Take Spacer 31. Screw in Bracket 3.
+			Involved Components: Spacer 31, Bracket 3
+		Step number: 56
+			Description: Take Spacer 32. Screw in Bracket 4.
+			Involved Components: Spacer 32, Bracket 4
+		Step number: 57
+			Description: Take Frame 2 and align Hole 1 with Spacer 29, Hole 2 with Spacer 30, Hole 3 with Spacer 31 and Hole 4 with Spacer 32. Place in Spacer 29, Spacer 30, Spacer 31 and Spacer 32.
+			Involved Components: Frame 2, Spacer 29, Spacer 30, Spacer 31, Spacer 32
+		Step number: 58
+			Description: Take Screw 5. Screw in Hole 1 of Frame 2.
+			Involved Components: Screw 5, Frame 2
+		Step number: 59
+			Description: Take Screw 6. Screw in Hole 2 of Frame 2.
+			Involved Components: Screw 6, Frame 2
+		Step number: 60
+			Description: Take Screw 7. Screw in Hole 3 of Frame 2.
+			Involved Components: Screw 7, Frame 2
+		Step number: 61
+			Description: Take Screw 8. Screw in Hole 4 of Frame 2.
+			Involved Components: Screw 8, Frame 2
+		Step number: 62
+			Description: Take Card 4. Place in Bracket 1, Bracket 2, Bracket 3 and Bracket 4.
+			Involved Components: Card 4, Bracket 1, Bracket 2, Bracket 3, Bracket 4
+		Step number: 63
+			Description: Take Screw 9. Screw in Hole 1 of Card 4.
+			Involved Components: Screw 9, Card 4
+		Step number: 64
+			Description: Take Screw 10. Screw in Hole 2 of Card 4.
+			Involved Components: Screw 10, Card 4
+		Step number: 65
+			Description: Take Screw 11. Screw in Hole 3 of Card 4.
+			Involved Components: Screw 11, Card 4
+		Step number: 66
+			Description: Take Screw 12. Screw in Hole 4 of Card 4.
+			Involved Components: Screw 12, Card 4
+		Step number: 67
+			Description: Take Rail 1. Place in Corner 1 of Frame 1 and Corner 1 of Frame 2.
+			Involved Components: Rail 1, Frame 1, Frame 2
+		Step number: 68
+			Description: Take Screw 13. Screw in Hole 1 of Rail 1.
+			Involved Components: Screw 13, Rail 1
+		Step number: 69
+			Description: Take Screw 14. Screw in Hole 2 of Rail 1.
+			Involved Components: Screw 14, Rail 1
+		Step number: 70
+			Description: Take Screw 15. Screw in Hole 3 of Rail 1.
+			Involved Components: Screw 15, Rail 1
+		Step number: 71
+			Description: Take Screw 16. Screw in Hole 4 of Rail 1.
+			Involved Components: Screw 16, Rail 1
+		Step number: 72
+			Description: Take Rail 2. Place in Corner 3 of Frame 1 and Corner 3 of Frame 2.
+			Involved Components: Rail 2, Frame 1, Frame 2
+		Step number: 73
+			Description: Take Screw 17. Screw in Hole 1 of Rail 2.
+			Involved Components: Screw 17, Rail 2
+		Step number: 74
+			Description: Take Screw 18. Screw in Hole 2 of Rail 2.
+			Involved Components: Screw 18, Rail 2
+		Step number: 75
+			Description: Take Screw 19. Screw in Hole 3 of Rail 2.
+			Involved Components: Screw 19, Rail 2
+		Step number: 76
+			Description: Take Screw 20. Screw in Hole 4 of Rail 2.
+			Involved Components: Screw 20, Rail 2
+		Step number: 77
+			Description: Take Rail 3. Place in Corner 2 of Frame 1 and Corner 2 of Frame 2.
+			Involved Components: Rail 3, Frame 1, Frame 2
+		Step number: 78
+			Description: Take Screw 21. Screw in Hole 1 of Rail 3.
+			Involved Components: Screw 21, Rail 3
+		Step number: 79
+			Description: Take Screw 22. Screw in Hole 2 of Rail 3.
+			Involved Components: Screw 22, Rail 3
+		Step number: 80
+			Description: Take Screw 23. Screw in Hole 3 of Rail 3.
+			Involved Components: Screw 23, Rail 3
+		Step number: 81
+			Description: Take Screw 24. Screw in Hole 4 of Rail 3.
+			Involved Components: Screw 24, Rail 3
+		Step number: 82
+			Description: Take Rail 4. Place in Corner 4 of Frame 1 and Corner 4 of Frame 2.
+			Involved Components: Rail 4, Frame 1, Frame 2
+		Step number: 83
+			Description: Take Screw 25. Screw in Hole 1 of Rail 4.
+			Involved Components: Screw 25, Rail 4
+		Step number: 84
+			Description: Take Screw 26. Screw in Hole 2 of Rail 4.
+			Involved Components: Screw 26, Rail 4
+		Step number: 85
+			Description: Take Screw 27. Screw in Hole 3 of Rail 4.
+			Involved Components: Screw 27, Rail 4
+		Step number: 86
+			Description: Take Screw 28. Screw in Hole 4 of Rail 4.
+			Involved Components: Screw 28, Rail 4
+	Resources Infos:
+		General Type Name: Frame_1
+			Type: Lower
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
+			Corner 1: []
+			Corner 3: []
+			Corner 2: []
+			Corner 4: []
+		General Type Name: Frame_2
+			Type: Upper
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
+			Corner 1: []
+			Corner 3: []
+			Corner 2: []
+			Corner 4: []
+		General Type Name: Screw_1
+			Head: Hexagonal
+			Diameter: 3mm
+			Length: 11mm
+			Quantity: 8
+		General Type Name: Screw_2
+			Head: Flat
+			Diameter: 3mm
+			Length: 5mm
+			Quantity: 4
+		General Type Name: Screw_3
+			Head: Torx
+			Diameter: 3mm
+			Quantity: 16
+		General Type Name: Screwdriver_1
+			Tip: CR-V 2.0mm
+			Quantity: 4
+		General Type Name: Screwdriver_2
+			Tip: CR-V T8
+			Quantity: 20
+		General Type Name: Screwdriver_3
+			Tip: CR-V 3.5mm
+			Quantity: 4
+		General Type Name: Spacer_1
+			Body: Hexagonal
+			Threaded: True
+			Diameter: 3mm
+			Length: 10mm
+			Quantity: 20
+		General Type Name: Spacer_2
+			Body: Circular
+			Threaded: False
+			Diamter: 3mm
+			Length: 10mm
+			Quantity: 12
+		General Type Name: Wrench_1
+			Diameter: 3mm
+			Quantity: 20
+		General Type Name: Bracket_1
+			Threaded: True
+			Diameter: 3mm
+			Length: 73mm
+			Quantity: 4
+		General Type Name: Washer_1
+			Thickness: 0.5mm
+			Hole Diameter: 3mm
+			Quantity: 12
+		General Type Name: Card_1
+			Type: Payload
+			Quantity: 1
+		General Type Name: Card_2
+			Type: Battery and PDI
+			Quantity: 1
+		General Type Name: Card_3
+			Type: Onboard Computer
+			Quantity: 1
+		General Type Name: Card_4
+			Type: Upper Closure
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
+		General Type Name: Rail_1
+			Plunger: False
+			Length: 113.5mm
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
+		General Type Name: Rail_2
+			Plunger: False
+			Length: 113.5mm
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
+		General Type Name: Rail_3
+			Plunger: True
+			Length: 113.5mm
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
+		General Type Name: Rail_4
+			Plunger: True
+			Length: 113.5mm
+			Quantity: 1
+			Hole 1: []
+			Hole 2: []
+			Hole 3: []
+			Hole 4: []
